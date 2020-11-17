@@ -72,7 +72,7 @@ Minimum required ModusToolbox Software Environment: v2.0
 
 ### More information
 Use the following links for more information, as needed:
-* [API Reference Guide](https://cypresssemiconductorco.github.io/core-lib/html/modules.html)
+* [API Reference Guide](https://CYSB2.github.io/core-lib/html/modules.html)
 * [Cypress Semiconductor, an Infineon Technologies Company](http://www.cypress.com)
 * [Cypress Semiconductor GitHub](https://github.com/cypresssemiconductorco)
 * [ModusToolbox](https://www.cypress.com/products/modustoolbox-software-environment)
