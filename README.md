@@ -1,5 +1,7 @@
 # Core Library
 
+Trivial change to test whether a clone is redirected to the source, when a fork (using the idential original URL) exists.
+
 ## Overview
 
 The Core Library provides basic types and utilities that can be used between different devices. This allows different libraries to share common items between themselves to avoid reimplementation and promote consistency.
